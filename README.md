@@ -23,4 +23,3 @@
 </br>
 "A tecnologia move o mundo." - Steve Jobs
 
-![snake gif](https://github.com/leooribeiroo/leooribeiroo/blob/output/github-contribution-grid-snake.svg)
