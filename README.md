@@ -22,7 +22,7 @@
 </br>
 "A tecnologia move o mundo." - Steve Jobs
 
-![leooribeiroo GitHub stats](https://github-readme-stats.vercel.app/api?username=leooribeiroo&show_icons=true&theme=merko)
+![leooribeiroo GitHub stats](https://github-readme-stats.vercel.app/api?username=leooribeiroo&show_icons=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leooribeiroo)
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=leooribeiroo&&theme=xcode)](https://github.com/leooribeiroo)
