@@ -2,31 +2,29 @@
 
 ### Olá, eu sou o Leonardo Ribeiro! 👋
 
+> **Economic Research & Data Analytics.**
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leooribeiroo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leooribeiroo)
 
+---
 
-## Minhas Tecnologias
-<div style ="display: inline_block"><br/>
-<img align="center" alt=" HTML 5 " src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+## 🛠️ Minhas Tecnologias & Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-<div style ="display: inline_block"><br/>
-<img align="center" alt=" CSS 3 " src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-<div style ="display: inline_block"><br/>
-<img align="center" alt=" JavaScript " src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>
-<div style ="display: inline_block"><br/>
-<img align="center" alt=" Typecript " src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
-</br>
-"A tecnologia move o mundo." - Steve Jobs
+
+---
+
+## 📊 Estatísticas
 
 ![leooribeiroo GitHub stats](https://github-readme-stats.vercel.app/api?username=leooribeiroo&show_icons=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leooribeiroo)
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=leooribeiroo&&theme=xcode)](https://github.com/leooribeiroo)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leooribeiroo&&theme=tokyonight" alt="leooribeiroo" /></p>
-
-
