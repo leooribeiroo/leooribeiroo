@@ -42,10 +42,9 @@ Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural de Pariquera-Açu/
 
 ### 📊 Estatísticas
 
-![](https://img.shields.io/badge/Commits-+100-green?style=flat-square)
-![](https://img.shields.io/badge/Repositórios-7-blue?style=flat-square)
-![](https://img.shields.io/badge/Stars-10+-yellow?style=flat-square)
-![](https://img.shields.io/badge/Seguidores-2-red?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/leooribeiroo?style=flat-square&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/leooribeiroo?style=flat-square&color=yellow)
+![GitHub repos](https://img.shields.io/badge/Repositórios-7-blueviolet?style=flat-square)
 ---
 ### 📞 Conecte-se comigo
 
