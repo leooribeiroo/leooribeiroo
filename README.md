@@ -51,5 +51,5 @@ Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural de Pariquera-Açu/
 ### 📞 Conecte-se comigo
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/leoribeiroo/)
-- 📧 seu.email@exemplo.com
+- 📧 l.m.ribeiro@grad.ufsc.br
 - 🐙 [GitHub](https://github.com/leooribeiroo)
