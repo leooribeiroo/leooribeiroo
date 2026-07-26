@@ -10,7 +10,7 @@ Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural de Pariquera-Açu/
     <a href="https://github.com/leooribeiroo?tab=followers">
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/leooribeiroo?color=236ad3&labelColor=1155ba&style=flat-square&logo=github&label=SEGUIDORES&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/seu-perfil/">
+    <a href="https://www.linkedin.com/in/leoribeiroo/">
         <img alt="LinkedIn" title="Conecte-se comigo" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
     </a>
 </p>
