@@ -2,7 +2,7 @@
 
 **`Econometria Aplicada`**
 
-Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural do Pariquera-Açu/SP, atualmente morando em Florianópolis/SC. Sou Técnico em Edificações pelo IFSP e, atualmente, estou cursando Economia na UFSC.
+Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural de Pariquera-Açu/SP, atualmente morando em Florianópolis/SC. Sou Técnico em Edificações pelo IFSP e, atualmente, estou cursando Economia na UFSC.
 
 <p align="left">
     <a href="https://github.com/leooribeiroo?tab=repositories&sort=stargazers">
@@ -63,19 +63,5 @@ Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural do Pariquera-Açu/
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leooribeiroo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooribeiroo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leooribeiroo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/leooribeiroo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leooribeiroo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6)](https://github.com/leooribeiroo)
