@@ -39,12 +39,18 @@ Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural de Pariquera-Açu/
 - 📈 Interesse em **análise de políticas públicas** e **econometria aplicada**
 
 ---
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/leooribeiroo/leooribeiroo/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+---
 
 ### 📊 Estatísticas
 
 ![GitHub followers](https://img.shields.io/github/followers/leooribeiroo?style=flat-square&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/leooribeiroo?style=flat-square&color=yellow)
 ![GitHub repos](https://img.shields.io/badge/Repositórios-7-blueviolet?style=flat-square)
+
 ---
 ### 📞 Conecte-se comigo
 
