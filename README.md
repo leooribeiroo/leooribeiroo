@@ -42,9 +42,10 @@ Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural de Pariquera-Açu/
 
 ### 📊 Estatísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leooribeiroo&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)](https://github.com/leooribeiroo)
+![GitHub Stats](https://github-readme-stats-xi-mauve.vercel.app/api?username=leooribeiroo&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leooribeiroo&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/leooribeiroo)
+![Top Langs](https://github-readme-stats-xi-mauve.vercel.app/api/top-langs/?username=leooribeiroo&theme=dark&layout=compact)
+
 ---
 
 ### 📞 Conecte-se comigo
