@@ -39,6 +39,12 @@ Me chamo Leonardo Mateus Ribeiro, tenho 26 anos e sou natural de Pariquera-Açu/
 - 📈 Interesse em **análise de políticas públicas** e **econometria aplicada**
 
 ---
+
+## Portfólio:
+- [Python - Estimação da Curva de Phillips Brasileira](https://github.com/leooribeiroo/curva-de-phillips-brasil)
+
+---
+
 <!-- GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnpsYjF3cXRmeWY5bWY1MXNqYnF1M3VyNTZ2a3Flempka3NwODdkZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Imagem" width="500">
